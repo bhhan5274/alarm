@@ -9,6 +9,10 @@ repositories {
     mavenCentral()
 }
 
+java {
+    sourceCompatibility = '21'
+}
+
 configurations {
     compileOnly {
         extendsFrom annotationProcessor
