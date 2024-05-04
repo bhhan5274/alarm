@@ -32,7 +32,7 @@ dependencies {
 }
 
 group = 'io.github.bhhan'
-version = '1.0.0'
+version = '1.0.1'
 
 bootJar.enabled = false
 jar.enabled = true
