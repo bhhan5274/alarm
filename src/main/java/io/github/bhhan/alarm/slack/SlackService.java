@@ -1,4 +1,4 @@
-package com.bhhan.alarm.slack;
+package io.github.bhhan.alarm.slack;
 
 import com.slack.api.Slack;
 import com.slack.api.model.Attachment;

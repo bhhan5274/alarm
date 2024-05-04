@@ -27,7 +27,7 @@ dependencies {
     testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.6.1'
 }
 
-group = 'com.bhhan'
+group = 'io.github.bhhan'
 version = '1.0.0'
 
 bootJar.enabled = false

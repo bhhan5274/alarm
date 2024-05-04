@@ -1,4 +1,4 @@
-package com.bhhan.alarm.kakao;
+package io.github.bhhan.alarm.kakao;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

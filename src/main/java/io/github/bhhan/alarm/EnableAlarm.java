@@ -1,4 +1,4 @@
-package com.bhhan.alarm;
+package io.github.bhhan.alarm;
 
 import org.springframework.context.annotation.Import;
 

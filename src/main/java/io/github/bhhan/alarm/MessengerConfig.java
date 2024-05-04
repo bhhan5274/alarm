@@ -1,7 +1,7 @@
-package com.bhhan.alarm;
+package io.github.bhhan.alarm;
 
-import com.bhhan.alarm.kakao.KakaoService;
-import com.bhhan.alarm.slack.SlackService;
+import io.github.bhhan.alarm.kakao.KakaoService;
+import io.github.bhhan.alarm.slack.SlackService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
