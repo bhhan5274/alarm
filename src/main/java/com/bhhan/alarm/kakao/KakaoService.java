@@ -1,4 +1,4 @@
-package net.icloudn.alarm.kakao;
+package com.bhhan.alarm.kakao;
 
 import jakarta.annotation.PostConstruct;
 import net.nurigo.sdk.NurigoApp;

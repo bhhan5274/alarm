@@ -1,4 +1,4 @@
-package net.icloudn.alarm.slack;
+package com.bhhan.alarm.slack;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

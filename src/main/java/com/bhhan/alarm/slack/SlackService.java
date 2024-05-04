@@ -1,4 +1,4 @@
-package net.icloudn.alarm.slack;
+package com.bhhan.alarm.slack;
 
 import com.slack.api.Slack;
 import com.slack.api.model.Attachment;

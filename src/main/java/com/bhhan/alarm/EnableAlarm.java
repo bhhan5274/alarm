@@ -1,4 +1,4 @@
-package net.icloudn.alarm;
+package com.bhhan.alarm;
 
 import org.springframework.context.annotation.Import;
 

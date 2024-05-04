@@ -1,7 +1,7 @@
-package net.icloudn.alarm;
+package com.bhhan.alarm;
 
-import net.icloudn.alarm.kakao.KakaoService;
-import net.icloudn.alarm.slack.SlackService;
+import com.bhhan.alarm.kakao.KakaoService;
+import com.bhhan.alarm.slack.SlackService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
