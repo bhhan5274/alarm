@@ -1,0 +1,12 @@
+webhook:
+  slack:
+    url: slack-url
+
+cloudn:
+  tel: tel
+
+kakao:
+  key: key
+  secret: secret
+  channel: channel
+  template: template
